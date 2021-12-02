@@ -1,2 +1,14 @@
 # SG4RMT
-Scene Graph for Robot Manipulation Task
+Journal of Institute of Control, Robotics and System(ICROS)
+
+[Dynamic 3D Scene Graph Generation for Robotic Manipulation Tasks] - 12월 게재 예정
+
+- - -
+
+## Model
+![SG4RMT](image/model.jpg)
+
+## keywords
+- 3D Scene Graph Generation
+- Spatio-Temporal Context Reasoning
+- Graph Convolutional Network
