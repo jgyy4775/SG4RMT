@@ -1,7 +1,7 @@
 # SG4RMT
 Journal of Institute of Control, Robotics and System(ICROS)
 
-[Dynamic 3D Scene Graph Generation for Robotic Manipulation Tasks] - 12월 게재 예정
+[Dynamic 3D Scene Graph Generation for Robotic Manipulation Tasks](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10671832)
 
 - - -
 
