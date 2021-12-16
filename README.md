@@ -16,14 +16,9 @@ Journal of Institute of Control, Robotics and System(ICROS)
 ## Video Demo
 * Input Video
 
-![SG4RMT](image/detection2.gif)
+<center><img src="/image/detection2.gif" width="400" height="250"></center> 
 * Scene Graph
 
-![SG4RMT](image/scenegraph2.gif) 
+<center><img src="/image/scenegraph2.gif" width="400" height="250"></center>
 
-* gg
-
-<left><img src="/image/detection2.gif" width="400" height="250"></left> 
-=>
-<right><img src="/image/scenegraph2.gif" width="400" height="250"></right>
 
