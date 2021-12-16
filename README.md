@@ -15,10 +15,9 @@ Journal of Institute of Control, Robotics and System(ICROS)
 
 ## Video Demo
 * Input Video
-
 <center><img src="/image/detection2.gif" width="400" height="250"></center> 
-* Scene Graph
 
+* Scene Graph
 <center><img src="/image/scenegraph2.gif" width="400" height="250"></center>
 
 
