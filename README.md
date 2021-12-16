@@ -22,6 +22,8 @@ Journal of Institute of Control, Robotics and System(ICROS)
 ![SG4RMT](image/scenegraph2.gif) 
 
 * gg
-<left><img src="/image/detection2.gif" width="400" height="250"></left>
+
+<left><img src="/image/detection2.gif" width="400" height="250"></left> 
+=>
 <right><img src="/image/scenegraph2.gif" width="400" height="250"></right>
 
